@@ -1,0 +1,8 @@
+Create the file:
+pandas
+
+Install it with:
+pip install pandas
+
+Then verify:
+python -c "import pandas; print(pandas.__version__)"
